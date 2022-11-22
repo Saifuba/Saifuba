@@ -1,4 +1,4 @@
-## Hello i'm saifuba a junior developer i love technology
+## Hello i'm saifuba a junior developer  
 
 - 💻 I’m currently learning Web Dev 
 - 🚴‍ When i go out i like to ride my bike
