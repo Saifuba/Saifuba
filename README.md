@@ -1,4 +1,4 @@
-## Hello i'm saifuba a junior developer  
+## Hello i'm saifuba a junior developer that is learning how to code
 
 - 💻 I’m currently learning Web Dev  
 <div>
