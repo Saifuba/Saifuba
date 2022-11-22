@@ -1,8 +1,6 @@
 ## Hello i'm saifuba a junior developer  
 
-- 💻 I’m currently learning Web Dev 
-- 🚴‍ When i go out i like to ride my bike
-- ✨ I like to watch anime and read manga 
+- 💻 I’m currently learning Web Dev  
 <div>
   <a href="https://github.com/Saifuba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saifuba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
